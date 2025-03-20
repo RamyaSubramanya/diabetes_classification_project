@@ -1,0 +1,1 @@
+This is a diabetes classification dataset with outcome as 0 or 1.
